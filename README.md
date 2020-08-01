@@ -1,5 +1,6 @@
 # Password_Generator
-Description
+## Description
+
 In this project I will create a responsive web page that prompts the generates a random password. When the generate button is clicked the user will be prompted to select a number between and including 8 - 128. If the user selects cancel then the process will end. If the user enters anything other than a number that is between 8 and 128 including 8 and 128 then they will be prompted to try again.
 
 The user will then be prompted to confirm if they would like to include numbers in their password by selecting ok. If they select cancel then numbers will not be used.
